@@ -24,6 +24,7 @@
 	<link rel="stylesheet" href="css/all.min.css">
 </head>
 <body>
+	<a href="http://gjsq.me/1426750"><img style="border: 0px" src="http://203.158.22.211/aff/banners/01.gif"></img></a>
 	<div class="flowtime">
 		<div class="ft-section section-1" data-id="section-1">
 			<div id="/section-1/page-1" class="ft-page page-1" data-id="page-1">
